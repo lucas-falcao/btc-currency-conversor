@@ -1,7 +1,7 @@
 <template>
     <div>
         <footer class="site-footer">
-           Lucas &copy; 2021
+            &copy; Lucas 2020
         </footer>
     </div>
 </template>
