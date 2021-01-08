@@ -6,6 +6,7 @@
     </div>
 </template>
 <style scoped>
+
     footer {
     color: white;
     position: fixed;
