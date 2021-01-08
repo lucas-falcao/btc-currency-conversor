@@ -1,7 +1,7 @@
 <template>
     <div>
         <footer class="site-footer">
-           Lucas &copy;  2021
+           Lucas Falcão &copy;  2021
         </footer>
     </div>
 </template>
